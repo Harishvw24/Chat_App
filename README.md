@@ -164,6 +164,11 @@ All protected routes expect a `token` header containing the JWT.
 - Update `VITE_BACKEND_URL` to your deployed API URL.
 - Ensure CORS settings in [server/server.js](server/server.js) allow your frontend origin in production.
 
+## Live Deployment
+
+- Client: https://chat-app-two-vert-49.vercel.app/login
+- Server: https://chat-app-backend-omega-bice.vercel.app
+
 ## Troubleshooting
 
 - If you see auth errors, confirm the `token` header is set by the client.
