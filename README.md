@@ -22,9 +22,13 @@ A full-stack real-time chat application built with React (Vite), Tailwind CSS, N
 
 Add your screenshots in a docs/screenshots folder and update the links below:
 
-- Home / chat view: ![Chat view](docs/screenshots/chat-view.png)
-- Login / signup: ![Auth view](docs/screenshots/auth-view.png)
-- Profile edit: ![Profile view](docs/screenshots/profile-view.png)
+ Home / chat view: 
+-<img width="1917" height="963" alt="Screenshot 2026-02-15 001915" src="https://github.com/user-attachments/assets/bb9df8b4-e97f-44d1-a913-19dabfddd39c" />
+- Login / signup:
+<img width="1915" height="968" alt="Screenshot 2026-02-15 001955" src="https://github.com/user-attachments/assets/a01329c5-bc56-497d-b4d9-c15db7ab83c7" />
+- 
+- Profile edit:
+- <img width="1919" height="962" alt="Screenshot 2026-02-15 001932" src="https://github.com/user-attachments/assets/3a12c19d-645d-46ec-9bb2-35afca06176c" />
 
 ## Tech Stack
 
